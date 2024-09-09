@@ -1,2 +1,2 @@
-# MIT6.006-Introduction-to-Algorithms
+# MIT6.006
 self-learning program
